@@ -1,4 +1,4 @@
-#Install Docker CE with Docker-Cmpose and Docker-App on Linux Mint 19.1
+# Install Docker CE with __Docker-Compose__ and __Docker-App__ on Linux Mint 19.1
 
 ```
 sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg2     software-properties-common
